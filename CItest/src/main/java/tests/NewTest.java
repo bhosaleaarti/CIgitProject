@@ -19,6 +19,7 @@ public class NewTest {
 	   
 	   System.setProperty("webdriver.gecko.driver", "src\\test\\resources\\drivers\\geckodriver.exe");
 	   driver = new FirefoxDriver();
+	   System.out.println("Launching the browser");
 	   
 	  }
 	 
