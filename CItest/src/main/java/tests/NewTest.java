@@ -21,6 +21,8 @@ public class NewTest {
 	   driver = new FirefoxDriver();
 	   System.out.println("Launching the browser..........1111");
 	   System.out.println("Launching the browser..........1111");
+	   System.out.println("Launching the browser..........1111");
+	   System.out.println("Launching the browser..........1111");
 	  }
 	 
 	  @AfterClass
